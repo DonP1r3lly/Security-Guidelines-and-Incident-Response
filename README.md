@@ -10,6 +10,10 @@ More guides will be published over time, short and as effective as possible.
 
 
 
+
+
+
+
 # LICENSE:
 This software is free to distribute, modify and use with the condition that credit is provided to the creator (@DonP1r3lly) and is not for commercial use.
 
