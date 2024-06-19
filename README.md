@@ -1,10 +1,10 @@
 # Security-Guidelines-and-Incident-Response
 Security Guidelines and Incident Response
 
-#1. Incident Responders Personal devices  (1 page)
+# 1. Incident Responders Personal devices  (1 page)
 If you have downloaded a program or file that you are unsure about or has been reported, what can I do?
 
-#2. Comming soon
+# 2. Comming soon
 
 More guides will be published over time, short and as effective as possible.
 
